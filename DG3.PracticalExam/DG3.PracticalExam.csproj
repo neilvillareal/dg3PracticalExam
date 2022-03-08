@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DG3.PracticeExam.DataAccess\DG3.PracticeExam.DataAccess.csproj" />
+    <ProjectReference Include="..\DG3.PracticeExam.Domain\DG3.PracticeExam.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="cust_import.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

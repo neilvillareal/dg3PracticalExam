@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<customers xmlns="http://dg3.com/schemas/customers">
+   <customer>
+      <firstname>John</firstname>
+      <lastname>Smith</lastname>
+      <address1>17 School Road</address1>
+      <address2>Hall Green</address2>
+      <city>Birmingham</city>
+      <province>West Midlands</province>
+      <postcode>B28 8JG</postcode>
+      <country>United Kingdom</country>
+      <email>John.Smith@dg3.com</email>
+      <regdate>2012-01-23T15:37:23.3544634+01:00</regdate>
+   </customer>
+   <customer>
+      <firstname>Fred</firstname>
+      <lastname>Bloggs</lastname>
+      <address1>100 Burma Road</address1>
+      <address2/>
+      <city>Jersey City</city>
+      <province>NJ</province>
+      <postcode>07305</postcode>
+      <country>USA</country>
+      <email>Fred.Bloggs@dg3.com</email>
+      <regdate>2011-09-17T23:15:52.045235324+05:00</regdate>
+   </customer>
+   <customer>
+      <firstname>Jane</firstname>
+      <lastname>Doe</lastname>
+      <address1>Haking (Tung Shing) Industrial Building</address1>
+      <address2>34 Lee Chung Street</address2>
+      <city>Chai Wan</city>
+      <province/>
+      <postcode/>
+      <country>Hong Kong</country>
+      <email>Jane.Doe@dg3.com</email>
+      <regdate/>
+   </customer>
+</customers>
